@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Ethan Kloster",
+        "UserId": 1,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Magdaia Bidder",
+        "UserId": 2,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Jeri Fylan",
+        "UserId": 3,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Edgardo Popelay",
+        "UserId": 4,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Latrena Tander",
+        "UserId": 5,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Merrie Endersby",
+        "UserId": 6,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Austina Jendas",
+        "UserId": 7,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Malachi Bruggen",
+        "UserId": 8,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Cirillo Risborough",
+        "UserId": 9,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Jacquelin Sima",
+        "UserId": 10,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Camila Delooze",
+        "UserId": 11,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Griz Scoffham",
+        "UserId": 12,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Clare Kerslake",
+        "UserId": 13,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Gail Bennike",
+        "UserId": 14,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Woody Klas",
+        "UserId": 15,
+        "InvestmentType": "Deposito",
+        "amount": 5000000
+    },
+    {
+        "name": "Law Eloi",
+        "UserId": 16,
+        "InvestmentType": "Saham",
+        "amount": 10000000
+    },
+    {
+        "name": "Hernando Cossington",
+        "UserId": 17,
+        "InvestmentType": "Saham",
+        "amount": 10000000
+    },
+    {
+        "name": "Wilburt Fawdrie",
+        "UserId": 18,
+        "InvestmentType": "Saham",
+        "amount": 10000000
+    },
+    {
+        "name": "Quinton Alexsandrowicz",
+        "UserId": 19,
+        "InvestmentType": "Reksa Dana",
+        "amount": 7000000
+    },
+    {
+        "name": "Lorenzo Tassaker",
+        "UserId": 20,
+        "InvestmentType": "Reksa Dana",
+        "amount": 7000000
+    },
+    {
+        "name": "Fadhlur Rahman",
+        "UserId": 21,
+        "InvestmentType": "Saham",
+        "amount": 10000000
+    },
+    {
+        "name": "Vesa Rian",
+        "UserId": 22,
+        "InvestmentType": "Saham",
+        "amount": 10000000
+    }
+]
